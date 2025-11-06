@@ -3,7 +3,7 @@
 Small script that counts words and letters in a text file and prints a simple report.
 
 Quick use
-1. Put a .txt file in the repo (there are samples in the books/ folder).
+1. Put a .txt file in the repo
 2. Run:
    ```
    python3 main.py <path/to/book.txt>
